@@ -1,3 +1,9 @@
+# Python-Only implementation of the great Blogpost "Multi-label Text Classification using BERT – The Mighty Transformer"
+Working python implementation. Code of the original Jupyter-Notebook has been splitted in several python files. ***Take care, the code quality is quite bad, I might refactor it at a later point**.
+
+Use the files `run_training.py`and `run_prediction.py` to start training/inference.
+
+
 ### Build, Run and Push Docker Image for Training
 
 The docker image in the `docker` folder contains all necessary libraries to train the model.
