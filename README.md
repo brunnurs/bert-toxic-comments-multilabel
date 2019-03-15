@@ -1,5 +1,5 @@
 # Python-only implementation of the great blogpost "Multi-label Text Classification using BERT – The Mighty Transformer"
-Working python implementation. Code of the original Jupyter-Notebook has been splitted in several python files. **Take care, the code quality is quite bad, I might refactor it at a later point**.
+Working python implementation. Code of the original Jupyter-Notebook has been splitted into several python files. **Take care, the code quality is quite bad, I might refactor it at a later point**.
 
 Use the files `run_training.py`and `run_prediction.py` to start training/inference.
 
